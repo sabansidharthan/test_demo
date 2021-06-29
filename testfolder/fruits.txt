@@ -4,3 +4,4 @@ banana
 pineapple
 guava
 watermelon
+mango
