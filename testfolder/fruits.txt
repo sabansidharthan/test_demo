@@ -1,7 +1,0 @@
-apple
-orange 
-banana
-pineapple
-guava
-watermelon
-mango
